@@ -8,4 +8,14 @@ border-width:5px;
 border-style:solid;
 border-color:red;}
 
+p {background:black;
+width:500px; 
+padding:15px;
+color : red;
+font-family:verdana;
+font-size: 20px; 
+border-width:5px; 
+border-style:solid;
+border-color:red;}
+
 body {background-color:green;}
