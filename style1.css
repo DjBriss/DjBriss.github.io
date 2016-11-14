@@ -8,7 +8,7 @@ border-width:5px;
 border-style:solid;
 border-color:red;}
 
-p.0 {background:black;
+p0 {background:black;
 width:500px; 
 padding:15px;
 color : blue;
@@ -18,7 +18,7 @@ border-width:5px;
 border-style:solid;
 border-color:red;}
 
-p.1 {background:black;
+p1 {background:black;
 width:500px; 
 padding:15px;
 color : red;
