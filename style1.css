@@ -8,7 +8,17 @@ border-width:5px;
 border-style:solid;
 border-color:red;}
 
-p {background:black;
+p_0 {background:black;
+width:500px; 
+padding:15px;
+color : red;
+font-family:verdana;
+font-size: 20px; 
+border-width:5px; 
+border-style:solid;
+border-color:red;}
+
+p_1 {background:black;
 width:500px; 
 padding:15px;
 color : red;
