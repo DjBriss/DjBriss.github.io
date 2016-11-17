@@ -17,7 +17,7 @@ font-size: 20px;
 border-width:5px; 
 border-style:solid;
 border-color:red;}
-p.p1:hover { color:green;}
+p.p1:hover { background-color:red;}
 
 p.p2 {background:black;
 width:500px; 
