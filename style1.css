@@ -8,6 +8,16 @@ border-width:5px;
 border-style:solid;
 border-color:red;}
 
+h1:hover {background:purple;
+width:400px; 
+padding:15px;
+color : green;
+font-family:verdana;
+font-size: 20px; 
+border-width:5px; 
+border-style:solid;
+border-color:red;}
+
 p.p1 {background:black;
 width:500px; 
 padding:15px;
@@ -37,5 +47,15 @@ font-size: 20px;
 border-width:5px; 
 border-style:solid;
 border-color:red;}
+
+p.p2:hover {background:white;
+width:500px; 
+padding:15px;
+color : black;
+font-family:verdana;
+font-size: 20px; 
+border-width:5px; 
+border-style:solid;
+border-color:purple;}
 
 body {background-color:green;}
