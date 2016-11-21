@@ -1,7 +1,8 @@
 body{width:960px;
      background:grey;
      border-width: 5px; 
-     border-color: black;}
+     border-color: black;
+     border-style: solid;}
 
 h1 {background:black;
 width:500px; 
