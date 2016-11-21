@@ -1,4 +1,4 @@
-body{width:full;
+body{width:100%;
      background:grey;
      border-width: 5px; 
      border-color: black;
@@ -6,7 +6,7 @@ body{width:full;
      background-position:center top;}
 
 h1 {background:black;
-width:500px; 
+width:100%; 
 padding:15px;
 color : red;
 font-family:verdana;
@@ -16,7 +16,7 @@ border-style:solid;
 border-color:red;}
 
 h1:hover {background:purple;
-width:400px; 
+width:50%; 
 padding:15px;
 color : green;
 font-family:verdana;
@@ -26,7 +26,7 @@ border-style:solid;
 border-color:red;}
 
 p.p1 {background:black;
-width:500px; 
+width:50%; 
 padding:15px;
 color : blue;
 font-family:verdana;
@@ -36,7 +36,7 @@ border-style:solid;
 border-color:red;}
 
 p.p1:hover {background:red;
-width:500px; 
+width:50%; 
 padding:15px;
 color : blue;
 font-family:verdana;
@@ -46,7 +46,7 @@ border-style:solid;
 border-color:gold;}
 
 p.p2 {background:black;
-width:500px; 
+width:50%; 
 padding:15px;
 color : red;
 font-family:verdana;
@@ -56,7 +56,7 @@ border-style:solid;
 border-color:red;}
 
 p.p2:hover {background:white;
-width:500px; 
+width:50%; 
 padding:15px;
 color : black;
 font-family:verdana;
