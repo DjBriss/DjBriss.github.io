@@ -15,6 +15,10 @@ border-width:5px;
 border-style:solid;
 border-color:red;}
 
+[class*menuitem-]
+{width:15%
+}
+
 h1:hover {background:purple;
 width:50%; 
 padding:15px;
