@@ -30,7 +30,7 @@ body {
 				width: 230px;
 				margin-left: -100%;
 				background: #FFF5EE;
-				border : black;
+				border : 25px solid greenblack;
 			}
 			
 			#footer {
