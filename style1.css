@@ -1,71 +1,72 @@
-body{width:95%;
-     background:grey;
-     border-width: 5px; 
-     border-color: black;
-     border-style: solid;
-     background-position:center top;}
-
-h1 {background:black;
-width:93%; 
-padding:15px;
-color : red;
-font-family:verdana;
-font-size: 20px; 
-border-width:5px; 
-border-style:solid;
-border-color:red;}
-
-[class*menuitem-]
-{width:15%
-}
-
-h1:hover {background:purple;
-width:50%; 
-padding:15px;
-color : green;
-font-family:verdana;
-font-size: 20px; 
-border-width:5px; 
-border-style:solid;
-border-color:red;}
-
-p.p1 {background:black;
-width:50%; 
-padding:15px;
-color : blue;
-font-family:verdana;
-font-size: 20px; 
-border-width:5px; 
-border-style:solid;
-border-color:red;}
-
-p.p1:hover {background:red;
-width:50%; 
-padding:15px;
-color : blue;
-font-family:verdana;
-font-size: 20px; 
-border-width:5px; 
-border-style:solid;
-border-color:gold;}
-
-p.p2 {background:black;
-width:50%; 
-padding:15px;
-color : red;
-font-family:verdana;
-font-size: 20px; 
-border-width:5px; 
-border-style:solid;
-border-color:red;}
-
-p.p2:hover {background:white;
-width:50%; 
-padding:15px;
-color : black;
-font-family:verdana;
-font-size: 20px; 
-border-width:5px; 
-border-style:solid;
-border-color:purple;}
+body {
+				margin:0;
+				padding:0;
+				font-family: Sans-Serif;
+				line-height: 1.5em;
+			}
+			
+			#header {
+				background: #aaa;
+				height: 100px;
+			}
+			
+			#header h1 {
+				margin: 0;
+				padding-top: 15px;
+			}
+			
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 100%;
+			}
+			
+			#nav {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 230px;
+				margin-left: -100%;
+				background: #FFF5EE;
+			}
+			
+			#footer {
+				clear: left;
+				height: 100%;
+				width: 100%;
+				background: #ece;
+				text-align: center;
+				padding: 4px 0;
+			}
+	
+			#wrapper {
+				overflow: hidden;
+			}
+						
+			#content {
+				margin-left: 230px; /* Same as 'nav' width */
+			}
+			
+			.innertube {
+				margin: 15px; /* Padding for content */
+				margin-top: 0;
+			}
+		
+			p {
+				color: #555;
+			}
+	
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: darkgreen;
+				text-decoration: yes;
+			}
+		
+		</style>
 
