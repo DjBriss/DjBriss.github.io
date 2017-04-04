@@ -16,7 +16,6 @@
 			
 			main {
 				padding-bottom: 10010px;
-				padding-right: 20%;
 				margin-bottom: -10000px;
 				float: left;
 				width: 100%;
@@ -47,6 +46,7 @@
 						
 			#content {
 				margin-left: 20%; /* Same as 'nav' width */
+				margin-right: 20%;
 			}
 			
 			.innertube {
