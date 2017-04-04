@@ -18,7 +18,8 @@ body {
 			}
 			
 			main {
-				padding-bottom: 10010px;
+				padding-right: 1000px;
+				padding-left: 1000px;
 				margin-bottom: -10000px;
 				float: left;
 				width: 100%;
@@ -34,14 +35,14 @@ body {
 				border : 2px solid yellow;
 			}
 			
-			#footer {
+			/* #footer {
 				clear: left;
 				height: 100%;
 				width: 100%;
 				background: #aba;
 				text-align: center;
 				padding: 4px 0;
-			}
+			} */
 	
 			#wrapper {
 				overflow: hidden;
