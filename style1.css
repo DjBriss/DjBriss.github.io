@@ -18,11 +18,11 @@ body {
 			}
 			
 			main {
-				padding-right: 1000px;
-				padding-left: 1000px;
-				margin-bottom: -10000px;
+				padding-right: 20%;
+				padding-left: 20%;
+				margin-bottom: -1000px;
 				float: left;
-				width: 100%;
+				width: 80%;
 			}
 			
 			#nav {
