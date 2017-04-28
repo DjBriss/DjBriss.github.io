@@ -1,0 +1,33 @@
+.header-bricks-img{
+  background-image: url('../img/bricks.jpg');
+}
+
+.header-lake-img{
+  background-image: url('../img/lake.jpg');
+}
+
+.m-b-20{
+	margin-bottom: 40px;
+}
+
+.text-vertical-center {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Map */
+
+.map {
+    height: 500px;
+}
+
+@media(max-width:768px) {
+    .map {
+        height: 75%;
+    }
+}
+
+.map iframe {
+    pointer-events: none;
+}
